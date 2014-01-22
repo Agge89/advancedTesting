@@ -1,2 +1,2 @@
-meddelande från fil1
+meddelande fron fil1
 du ska svara fil 2
